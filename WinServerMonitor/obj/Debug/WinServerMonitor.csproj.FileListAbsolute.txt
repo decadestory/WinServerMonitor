@@ -1,0 +1,6 @@
+E:\GitHub\WinServerMonitor\WinServerMonitor\obj\Debug\WinServerMonitor.csprojResolveAssemblyReference.cache
+E:\GitHub\WinServerMonitor\WinServerMonitor\bin\Debug\WinServerMonitor.exe.config
+E:\GitHub\WinServerMonitor\WinServerMonitor\bin\Debug\WinServerMonitor.exe
+E:\GitHub\WinServerMonitor\WinServerMonitor\bin\Debug\WinServerMonitor.pdb
+E:\GitHub\WinServerMonitor\WinServerMonitor\obj\Debug\WinServerMonitor.exe
+E:\GitHub\WinServerMonitor\WinServerMonitor\obj\Debug\WinServerMonitor.pdb
